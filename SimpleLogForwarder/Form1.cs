@@ -11,8 +11,6 @@ namespace SimpleLogForwarder
 {
     public partial class Form1 : Form
     {
-        string appTitle = "Syslog Simulator v1.1";
-
         private List<string> messageLines = new List<string>();
         private int currentLineIndex = 0;
         private Timer schedulerTimer;
@@ -79,7 +77,7 @@ namespace SimpleLogForwarder
         private void cmbLogType_SelectedIndexChanged(object sender, EventArgs e)
         {
             refreshTxtMessage();
-            Form1.ActiveForm.Text = $"{cmbLogType.SelectedItem.ToString()} - {appTitle}";
+            Form1.ActiveForm.Text = $"{cmbLogType.SelectedItem.ToString()} - {Properties.Resources.appTitle}";
         }
 
         private void sendOnce_Click(object sender, EventArgs e)

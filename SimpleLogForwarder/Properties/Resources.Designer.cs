@@ -59,5 +59,14 @@ namespace SimpleLogForwarder.Properties {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Syslog Simulator v1.1.
+        /// </summary>
+        internal static string appTitle {
+            get {
+                return ResourceManager.GetString("appTitle", resourceCulture);
+            }
+        }
     }
 }

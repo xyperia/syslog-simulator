@@ -8,3 +8,13 @@ D:\Libraries\Projects\Visual-Studio\repos\SimpleLogForwarder\SimpleLogForwarder\
 D:\Libraries\Projects\Visual-Studio\repos\SimpleLogForwarder\SimpleLogForwarder\obj\Debug\SimpleLogForwarder.csproj.CoreCompileInputs.cache
 D:\Libraries\Projects\Visual-Studio\repos\SimpleLogForwarder\SimpleLogForwarder\obj\Debug\SimpleLogForwarder.exe
 D:\Libraries\Projects\Visual-Studio\repos\SimpleLogForwarder\SimpleLogForwarder\obj\Debug\SimpleLogForwarder.pdb
+D:\Libraries\Projects\syslog-simulator\SimpleLogForwarder\bin\Debug\Syslog Simulator.exe.config
+D:\Libraries\Projects\syslog-simulator\SimpleLogForwarder\bin\Debug\Syslog Simulator.exe
+D:\Libraries\Projects\syslog-simulator\SimpleLogForwarder\bin\Debug\Syslog Simulator.pdb
+D:\Libraries\Projects\syslog-simulator\SimpleLogForwarder\obj\Debug\SimpleLogForwarder.csproj.AssemblyReference.cache
+D:\Libraries\Projects\syslog-simulator\SimpleLogForwarder\obj\Debug\SimpleLogForwarder.Form1.resources
+D:\Libraries\Projects\syslog-simulator\SimpleLogForwarder\obj\Debug\SimpleLogForwarder.Properties.Resources.resources
+D:\Libraries\Projects\syslog-simulator\SimpleLogForwarder\obj\Debug\SimpleLogForwarder.csproj.GenerateResource.cache
+D:\Libraries\Projects\syslog-simulator\SimpleLogForwarder\obj\Debug\SimpleLogForwarder.csproj.CoreCompileInputs.cache
+D:\Libraries\Projects\syslog-simulator\SimpleLogForwarder\obj\Debug\Syslog Simulator.exe
+D:\Libraries\Projects\syslog-simulator\SimpleLogForwarder\obj\Debug\Syslog Simulator.pdb
