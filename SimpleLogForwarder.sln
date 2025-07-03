@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleLogForwarder", "SimpleLogForwarder\SimpleLogForwarder.csproj", "{37472109-5CD3-4385-A731-E9948FAFC334}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37472109-5CD3-4385-A731-E9948FAFC334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37472109-5CD3-4385-A731-E9948FAFC334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37472109-5CD3-4385-A731-E9948FAFC334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37472109-5CD3-4385-A731-E9948FAFC334}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {268AD239-C36E-4CEE-836D-26367F9E2BC9}
+	EndGlobalSection
+EndGlobal
