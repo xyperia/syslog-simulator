@@ -32,8 +32,8 @@ It’s useful for:
 ### 1. Clone or Download
 
 ```bash
-git clone https://github.com/yourusername/SimpleLogForwarder.git
-cd SimpleLogForwarder
+git clone https://github.com/xyperia/syslog-simulator.git
+cd syslog-simulator
 ```
 
 Or download the latest `.exe` from the [Releases](https://github.com/xyperia/syslog-simulator/releases) page.
